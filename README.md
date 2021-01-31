@@ -15,6 +15,17 @@
 ```
 git clone https://github.com/praveenorugantitech/praveenorugantitech-user-registration-reactjs.git
 cd praveenorugantitech-user-registration-reactjs
+
+create .env file and include your firebase details
+
+	REACT_APP_FIREBASE_API_KEY= ""
+	REACT_APP_FIREBASE_AUTH_DOMAIN= ""
+	REACT_APP_FIREBASE_PROJECT_ID= ""
+	REACT_APP_FIREBASE_STORAGE_BUCKET= ""
+	REACT_APP_FIREBASE_MESSAGE_SENDER_ID=  ""
+	REACT_APP_FIREBASE_APP_ID= ""
+	
+
 npm install
 npm start
 
