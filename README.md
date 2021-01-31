@@ -7,7 +7,7 @@
 
 ### Live Demo
 
-[https://praveenorugantitech.github.io/praveenorugantitech-user-registration-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-user-registration-reactjs/)
+[https://praveenoruganti-user-reg.firebaseapp.com/](https://praveenoruganti-user-reg.firebaseapp.com/)
 
 
 ### Setup Local Instructions
